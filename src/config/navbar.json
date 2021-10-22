@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Мои схемы",
+        "link": "/schemes"
+    },
+    {
+        "title": "Создать схему",
+        "link": "/schemes/create"
+    }
+]

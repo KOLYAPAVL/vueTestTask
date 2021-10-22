@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Числовое поле",
+        "key": "number",
+        "validation": ["required","min","max"]
+    },
+    {
+        "name": "Текстовое поле",
+        "key": "string",
+        "validation": ["required","min","max","pattern"]
+    },
+    {
+        "name": "Пароль",
+        "key": "password",
+        "validation": ["required","max","pattern"]
+    },
+    {
+        "name": "Номер телефона",
+        "key": "phone",
+        "validation": ["required"]
+    },
+    {
+        "name": "Чекбокс",
+        "key": "checkbox",
+        "validation": ["required"]
+    },
+    {
+        "name": "Выпадающий список",
+        "key": "select",
+        "validation": ["required"]
+    }
+]
